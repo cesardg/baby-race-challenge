@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222.653" height="72" viewBox="0 0 222.653 72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.559" x2="0" y2="0.567" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6a6a"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_111" data-name="Group 111" transform="translate(-152 -218.9)">
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="24" height="24" transform="translate(302.653 266.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_70" data-name="Rectangle 70" width="24" height="24" transform="translate(350.653 266.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_79" data-name="Rectangle 79" width="24" height="24" transform="translate(350.653 218.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="24" height="24" transform="translate(302.653 218.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="24" height="24" transform="translate(255.653 218.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="24" height="24" transform="translate(326.653 242.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="23" height="24" transform="translate(279.653 242.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="24" height="24" transform="translate(255.653 266.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="24" height="24" transform="translate(207.653 266.9)" fill="#ff6a6a"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="24" height="24" transform="translate(231.653 242.9)" fill="#ff6a6a"/>
+    <path id="Path_134" data-name="Path 134" d="M0,0H24V24H0Z" transform="translate(152 254.769)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="24" height="24" transform="translate(195.653 226.9)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

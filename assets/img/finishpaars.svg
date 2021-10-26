@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="366" height="90" viewBox="0 0 366 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.432" x2="0" y2="0.432" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#807acc"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_88" data-name="Group 88" transform="translate(-251 -1164)">
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="30" height="30" transform="translate(309 1170)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="30" height="30" transform="translate(251 1194)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_51" data-name="Rectangle 51" width="30" height="30" transform="translate(587 1224)" fill="#807acc"/>
+    <rect id="Rectangle_55" data-name="Rectangle 55" width="30" height="30" transform="translate(527 1224)" fill="#807acc"/>
+    <rect id="Rectangle_58" data-name="Rectangle 58" width="30" height="30" transform="translate(467 1224)" fill="#807acc"/>
+    <rect id="Rectangle_61" data-name="Rectangle 61" width="30" height="30" transform="translate(407 1224)" fill="#807acc"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="30" height="30" transform="translate(347 1224)" fill="#807acc"/>
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="30" height="30" transform="translate(557 1194)" fill="#807acc"/>
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="30" height="30" transform="translate(497 1194)" fill="#807acc"/>
+    <rect id="Rectangle_60" data-name="Rectangle 60" width="30" height="30" transform="translate(437 1194)" fill="#807acc"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="30" height="30" transform="translate(377 1194)" fill="#807acc"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="30" height="30" transform="translate(587 1164)" fill="#807acc"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="30" height="30" transform="translate(527 1164)" fill="#807acc"/>
+    <rect id="Rectangle_56" data-name="Rectangle 56" width="30" height="30" transform="translate(467 1164)" fill="#807acc"/>
+    <rect id="Rectangle_59" data-name="Rectangle 59" width="30" height="30" transform="translate(407 1164)" fill="#807acc"/>
+  </g>
+</svg>
