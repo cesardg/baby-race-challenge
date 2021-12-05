@@ -1,3 +1,3 @@
 # baby-race-challenge
 
-http://cesardegreve.be/babyracechallenge/
+https://cesardegreve.be/babyracechallenge/
